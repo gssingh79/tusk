@@ -1,6 +1,6 @@
 # AIR QUALITY VARIATION- MINI VIDEO GENERATED ON MS_EXCEL
 
-[AQI gif][AQI short vedio_Moment.jpg]
+![AQI gif][3]
 
 Youtube Vieo link id [here][2]
 
@@ -16,3 +16,4 @@ How I did it?
 
 [1]: AQIshortvedio.gif
 [2]: https://www.youtube.com/watch?v=9USyCSgAbjk
+[3]: gif_1.gif
