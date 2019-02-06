@@ -1,10 +1,10 @@
 # AIR QUALITY VARIATION- MINI VIDEO GENERATED ON MS_EXCEL
 
-Clip | Full Video link | Short Description | Workflow | Insights
+Inedx: Clip | Full Video link | Short Description | Workflow | Insights
 
 ![AQI gif](aqi_clip.gif)
 
-FULL AQI variation from January to December is avialable on Youtube Vieo link id [here][2]
+### FULL AQI variation from January to December is avialable on Youtube Vieo link id [here][2]
 
 ### Description of Short Video generated on MS-Excel:
 
@@ -19,7 +19,7 @@ This video illustrates the ups and downs of air quality index on different coord
 1. Data points were extracted from official CPCD site: http://cpcb.nic.in/ambient-aq-data-delhi-ncr/
 2. Data is cleaned like date from different locations were different therefore was formatted in to same format 
 3. Feature generation: Total AQI was calculated from Individual AQI list of all pollutants.
-4. Excel calculator for reference: http://cpcb.nic.in/ambient-aq-data-delhi-ncr/
+4. Excel calculator for reference:  https://app.cpcbccr.com/ccr_docs/AQI%20-Calculator.xls
 5. Video was created using Map feature in MS-Excel by adding up layers and selecting AQI as height of bars
 
 ### Insights:
