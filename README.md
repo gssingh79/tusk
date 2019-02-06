@@ -6,12 +6,13 @@ Clip | Full Video link | Short Description | Workflow
 
 FULL AQI variation from January to December is avialable on Youtube Vieo link id [here][2]
 
-Description of Short Video generated on MS-Excel: 
+### Description of Short Video generated on MS-Excel:
+
 This video illustrates the ups and downs of air quality index on different coordinates of New Delhi (capital of India). AQI is not constant over period of months but shows quite interesting variations with onsets of different festivals /seasons and community occasions in the city. Also visualization is differentiated for residential and industrial areas in orange and blue respectively
 ...So when will you go out to camp..? :D if ever..
 
 
-How I did it?
+### How I did it?
 
 1. Data points were extracted from official CPCD site: http://cpcb.nic.in/ambient-aq-data-delhi-ncr/
 2. Data is cleaned like date from different locations were different therefore was formatted in to same format 
