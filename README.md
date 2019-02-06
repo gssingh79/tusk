@@ -1,8 +1,8 @@
 # AIR QUALITY VARIATION- MINI VIDEO GENERATED ON MS_EXCEL
 
-![AQI gif][3]
+![AQI gif][4]
 
-Youtube Vieo link id [here][4]
+Youtube Vieo link id [here][2]
 
 Short Video generated on MS-Excel: 
 This video illustrates the ups and downs of air quality index on different coordinates of New Delhi. AQI is not constant over period of months but shows quite interesting variations with onsets of different festivals /seasons and community occasions in the city. Also visualization is differentiated for residential and industrial areas in orange and blue respectively
