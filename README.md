@@ -1,4 +1,4 @@
-# AIR QUALITY VARIATION- MINI VIDEO GENERATED ON MS_EXCEL
+# AIR QUALITY VARIATION - MINI VIDEO GENERATED ON MS_EXCEL
  
 Clip | Full Video link | Short Description | Workflow | Insights | References
 
