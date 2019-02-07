@@ -1,6 +1,5 @@
 # AIR QUALITY VARIATION- MINI VIDEO GENERATED ON MS_EXCEL
-
-Index: 
+ 
 Clip | Full Video link | Short Description | Workflow | Insights | References
 
 ![AQI gif](aqi_clip.gif)
