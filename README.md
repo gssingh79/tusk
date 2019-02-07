@@ -38,7 +38,7 @@ This video illustrates the ups and downs of air quality index on different coord
 
 ### Insights:
 1. From Data collected, Delhi's air quality has oscillated between the 'very poor' and the 'severe' categories whole year with slight lowest and in safe range in mid-year (month of August) which is also time of year with less leat festivals. 
-2. As Diwali and New year approaches -- in last quarter of year, AQI again takes a hike. 
+2. As Diwali (popular festival with usage of fire crackers in abundance) and New year approaches -- in last quarter of year, AQI again takes a hike. 
 3. Whole video shows AQI of both residential and industrial areas, with residential AQI overall less than industrial counterparts at any given time ogf year.
 
 [1]: AQIshortvedio.gif
