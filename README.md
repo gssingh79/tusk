@@ -13,15 +13,14 @@ The AQI is an index for reporting daily air quality. It tells you how clean or p
 
 #### Air Quality Index (AQI) Values	Levels of Health Concern	Colors <br>
 
-| When the AQI is in this range  |	air quality conditions are:    |	as symbolized by this color    |
-|:------------------------------|:-------------------------------|:--------------------------------|
-|0 to 50                       |	Good                          | Green                           |
-|51 to 100	| Moderate | Yellow |
-|101 to 150	| Unhealthy for Sensitive Groups |	Orange |
-|151 to 200 |	Unhealthy |	Red |
-|201 to 300 |	Very Unhealthy |	Purple |
-|301 to 500 |	Hazardous |	Maroon |
-
+| When the AQI is in this range:  |	Air quality conditions are:    |	As symbolized by this color:    | Heath concerns are: |
+|:------------------------------|:-------------------------------|:--------------------------------|:------------------|
+|0 to 50                       |	Good                          | Green       | poses little or no risk |
+|51 to 100	| Moderate | Yellow | for some pollutants there may be a moderate health concern |
+|101 to 150	| Unhealthy for Sensitive Groups |	Orange | Members of sensitive groups may experience health effects |
+|151 to 200 |	Unhealthy |	Red | overall experience health effects; sensitive groups may experience more serious health effects |
+|201 to 300 |	Very Unhealthy |	Purple | everyone may experience more serious health effects |
+|301 to 500 |	Hazardous |	Maroon | Health warnings of emergency conditions. The entire population is more likely to be affected |
 
 The Central Pollution Control Board (CPCB) data showed the overall air quality index (AQI) of Delhi at 412, which falls in the 'severe category', while the Centre-run System of Air Quality and Weather Forecasting (SAFAR) recorded an AQI of 388, which comes under the 'very poor' category. <br>
 
