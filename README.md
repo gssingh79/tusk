@@ -41,6 +41,10 @@ This video illustrates the ups and downs of air quality index on different coord
 2. As Diwali (popular festival with usage of fire crackers in abundance) and New year approaches -- in last quarter of year, AQI again takes a hike. 
 3. Whole video shows AQI of both residential and industrial areas, with residential AQI overall less than industrial counterparts at any given time ogf year.
 
+### References
+1. Airnow.gov. (2019). Air Quality Index (AQI) Basics. [online] Available at: https://airnow.gov/index.cfm?action=aqibasics.aqi [Accessed 1 Feb. 2019].
+2. Airnow.gov. (2019). Air Quality Index (AQI) Basics. [online] Available at: https://airnow.gov/index.cfm?action=aqibasics.aqi [Accessed 1 Feb. 2019].
+
 [1]: AQIshortvedio.gif
 [2]: https://www.youtube.com/watch?v=9USyCSgAbjk
 [3]: gif_1.gif
