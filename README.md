@@ -4,7 +4,7 @@ Inedx: Clip | Full Video link | Short Description | Workflow | Insights
 
 ![AQI gif](aqi_clip.gif)
 
-### FULL AQI variation from January to December is avialable on Youtube Vieo link id [here][2]
+### FULL AQI variation from January to December is avialable on Youtube Vieo link [here][2]
 
 ### Description of Short Video generated on MS-Excel:
 
