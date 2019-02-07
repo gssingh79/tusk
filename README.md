@@ -8,7 +8,7 @@ Inedx: Clip | Full Video link | Short Description | Workflow | Insights
 
 ### Description of Short Video generated on MS-Excel:
 
-#### What is Air Quality Index (AQI):
+#### What is Air Quality Index (AQI) ?
 The AQI is an index for reporting daily air quality. It tells you how clean or polluted your air is, and what associated health effects might be a concern for you. The AQI measures five criteria air pollutants (particulate matter, sulfur dioxide, carbon monoxide, nitrogen dioxide, and ozone), and converts the measured pollutant concentrations in a community's air to a number on a scale of 0 to 500.
 
 Air Quality Index (AQI) Values	Levels of Health Concern	Colors <br>
