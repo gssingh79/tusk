@@ -8,6 +8,21 @@ Inedx: Clip | Full Video link | Short Description | Workflow | Insights
 
 ### Description of Short Video generated on MS-Excel:
 
+#### What is Air Quality Index (AQI):
+The AQI is an index for reporting daily air quality. It tells you how clean or polluted your air is, and what associated health effects might be a concern for you. The AQI measures five criteria air pollutants (particulate matter, sulfur dioxide, carbon monoxide, nitrogen dioxide, and ozone), and converts the measured pollutant concentrations in a community's air to a number on a scale of 0 to 500.
+
+Air Quality Index (AQI) Values	Levels of Health Concern	Colors <br>
+
+| When the AQI is in this range  |	air quality conditions are:    |	as symbolized by this color    |
+|:------------------------------|:-------------------------------|:--------------------------------|
+|0 to 50                       |	Good                          | Green                           |
+|51 to 100	| Moderate | Yellow |
+|101 to 150	| Unhealthy for Sensitive Groups |	Orange |
+|151 to 200 |	Unhealthy |	Red |
+|201 to 300 |	Very Unhealthy |	Purple |
+|301 to 500 |	Hazardous |	Maroon |
+
+
 The Central Pollution Control Board (CPCB) data showed the overall air quality index (AQI) of Delhi at 412, which falls in the 'severe category', while the Centre-run System of Air Quality and Weather Forecasting (SAFAR) recorded an AQI of 388, which comes under the 'very poor' category. <br>
 
 This video illustrates the ups and downs of air quality index on different coordinates of New Delhi (capital of India). AQI is not constant over period of months but shows quite interesting variations with onsets of different festivals /seasons and community occasions in the city. Also visualization is differentiated for residential and industrial areas in orange and blue respectively
